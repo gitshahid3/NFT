@@ -4,9 +4,9 @@
 
 pragma solidity ^0.8.0;
 
-import "./math/Math.sol";
+import "./Math.sol";
 
-import "./math/SignedMath.sol";
+import "./SignedMath.sol";
 
 /**
 
